@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    background-color: blue;
+}
+header {
+    background-color: blue;
+    text-align: center;
+
+}
+header a{
+    color: black;
+    text-align: center;
+    background-color: rgb(82, 155, 14);
+  
+    font-size:20px;
+    text-decoration:none;
+    padding:5px;
+    margin:10px;
+    border-color: white;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+header h1 {
+    text-align: center;
+}
+
